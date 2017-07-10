@@ -44,7 +44,7 @@ getCaption - returns current table's caption element(if is)
  Will append this table to body:
  ```
                 Users                    <- Caption
-  	Username       status    last seen   <- Head
+   Username       status    last seen   <- Head
    Skydragon59    admin     08-12-2016   <- Row1      <-
    dogKeeper17    user      12-12-2016   <- Row2        |
    Dogio Majoris  moderator 12-12-2016   ...            |- Body
